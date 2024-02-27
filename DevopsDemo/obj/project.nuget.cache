@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "PiiU7NNSx85CyLcXypbHAzF6ZSXxG14Sk4FyV5uYIkKSX2zvauj7qQIpEDdEGFC8b9SKzKutfE1fJKillMCdgg==",
+  "dgSpecHash": "XLfCTnhiy3QBtbbWyPtLretvHaIOHrq5lytahX1rCasRDiYFQVbBRBPGyMYD3fsoMc0w0VPMJO7l8Ypiuw3yqA==",
   "success": true,
   "projectFilePath": "D:\\Devops(Jenkins)\\DevopsTesting\\JenkinsSamplePro\\DevopsDemo\\DevopsDemo\\DevopsDemo.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\kavin.senthil\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512"
+  ],
   "logs": []
 }
