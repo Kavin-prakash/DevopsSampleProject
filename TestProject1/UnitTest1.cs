@@ -27,7 +27,3 @@ namespace TestProject1
         }
     }
 }
-has context menu
-
-
-has context menu
